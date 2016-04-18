@@ -2,12 +2,12 @@
 HackerRank 30 Days of Code by Perrin Clark
 BlackGuyCoding@gmail.com
 */
-
 function processData(inputString) {
     // Your first line of output goes here
-    process.stdout.write("Hello, World.");
+    process.stdout.write("Hello, World." + "\n");
 
     // Write the second line of output
+    process.stdout.write(inputString);
 }
 
 
