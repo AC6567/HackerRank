@@ -1,1 +1,1 @@
-
+This repo will contain my solutions for the HackerRank 30 Days of Code Tutorial. I am writing them in JavaScript, which seems to be more challenging and rare on their platform so please be patient with me as I work through the solutions. Often, I can get the test to pass locally but not on their platform. 
