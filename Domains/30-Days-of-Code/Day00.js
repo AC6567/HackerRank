@@ -1,4 +1,4 @@
-/* Day 0: Hello, World.
+/* Day 00: Hello, World.
 HackerRank 30 Days of Code by Perrin Clark
 BlackGuyCoding@gmail.com
 */
