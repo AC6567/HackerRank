@@ -3,7 +3,7 @@ HackerRank Algorithm Solutions by Perrin Clark
 BlackGuyCoding@gmail.com
 */
 
-//this tet is passing locally but not on HackerRank//
+//this test is passing locally but not on HackerRank//
 
 function processData(input) {
     var lines = input.split(" ");
