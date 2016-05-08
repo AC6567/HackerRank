@@ -3,28 +3,13 @@
 HackerRank 30 Days of Code by Perrin Clark
 BlackGuyCoding@gmail.com
 */
-//this code is not passing the case tests on the HackerRank system for some reason. Will update this later//
 
-function processData(input) {
-    //Enter your code here
-    console.log('Primitive : double');
-    console.log('Primitive : char');
-    console.log('Primitive : boolean');
-    console.log('Primitive : int');
-    console.log('Referenced : String');
-    console.log('Primitive : boolean');
-    console.log('Primitive : double');
-    console.log('Primitive : char');
-    console.log('Referenced : String');
-}
-
-process.stdin.resume();
-process.stdin.setEncoding("ascii");
-_input = "";
-process.stdin.on("data", function (input) {
-    _input += input;
-});
-
-process.stdin.on("end", function () {
-   processData(_input);
-});
+  var i2 = 6
+  var d2 = 6.0
+  var s2 = "wat"
+  i2 = parseInt(input_stdin_array[0])
+  d2 = parseFloat(input_stdin_array[1])
+  s2 = input_stdin_array[2]
+  process.stdout.write((i + i2).toString() + "\n")
+  process.stdout.write((d + d2).toFixed(1) + "\n")
+  process.stdout.write(s+s2)
